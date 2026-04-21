@@ -1,6 +1,6 @@
 # 📌 Church API
 
-REST API built with **Django** + **Django REST Framework** for managing churches, members, and related activities.
+REST API built with **Django** + **Django REST Framework** + **PostgreSQL** for managing churches, members, and related activities.
 
 ---
 
